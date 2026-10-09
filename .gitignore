@@ -1,0 +1,10 @@
+# Ignore sensitive Google OAuth files
+client_secrets.json
+authorized_user.json
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
